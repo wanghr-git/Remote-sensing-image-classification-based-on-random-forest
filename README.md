@@ -1,2 +1,2 @@
-# wanghr-git-Remote-sensing-image-classification-based-on-random-fore
+# wanghr-git-Remote-sensing-image-classification-based-on-random-forest
 Remote-sensing-image-classification-based-on-random-forest
